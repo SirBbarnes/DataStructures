@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sergio/Desktop/Maze Project/cmake-build-debug/maze.cpp
+maze.h
+/Users/sergio/Desktop/Maze Project/cmake-build-debug/maze.h
+
+/Users/sergio/Desktop/Maze Project/cmake-build-debug/maze.h
+iostream
+-
+cstdint
+-
+vector
+-
+maze_node.h
+/Users/sergio/Desktop/Maze Project/cmake-build-debug/maze_node.h
+
+/Users/sergio/Desktop/Maze Project/cmake-build-debug/maze_node.h
+iostream
+-
+cstdint
+-
+

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.13)
+project(Maze_Project)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Maze_Project cmake-build-debug/maze.cpp cmake-build-debug/maze.h cmake-build-debug/maze_node.cpp cmake-build-debug/maze_node.h cmake-build-debug/main.cpp)

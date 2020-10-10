@@ -1,0 +1,7 @@
+CLion 2018.3.3 for Mac
+
+Maze.cpp is the implementation file of the maze files
+Maze.h is the header file of the maze files
+
+Maze_node.cpp is the implementation file of the course files
+Maze_node.h is the header file of the maze_node files

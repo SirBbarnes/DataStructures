@@ -1,0 +1,13 @@
+Visual Studio 2017 ver. 15.9.6
+
+Student.ccp is the implementation file of the student files
+Student.h is the header file of the student files
+
+Course.cpp is the implementation file of the course files
+Course.h is the header file of the course files
+
+Person.cpp is the implementation file of the person files
+Person.h is the header file of the course files
+
+Records.cpp is the implementation file of the records files
+Records.h is the implementation file of the records files
